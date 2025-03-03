@@ -79,20 +79,28 @@ public class PlayerMovment : MonoBehaviour
 
     void Shoot()
     {
+        animator.SetTrigger("T_Attack");
         
-        // Ajusta a posição do FirePoint para sempre ficar na frente do player
-        float direction = sprite.flipX ? -1f : 1f;
-        Vector3 firePosition = transform.position + new Vector3(direction * 0.5f, 0, 0);
+
+    }
+
+    public void ShotNewEgg()
+    {        // Ajusta a posição do FirePoint para sempre ficar na frente do player
+        var direction = sprite.flipX ? 1 : -1;
+        Vector3 firePosition = transform.position + new Vector3(direction * 0.5f, -0.2f, 0);
 
         // Instancia o projétil
         var newProjectile = Instantiate(ShotPrefab, firePosition, Quaternion.identity);
         Rigidbody2D rbProjectile = newProjectile.GetComponent<Rigidbody2D>();
+        
 
         if (rbProjectile != null)
         {
             rbProjectile.velocity = new Vector2(direction * ShootForce, 0);
         }
-
-        
+    }
+    public void SetCanAttack()
+    {
+        canAtack = true;  
     }
 }

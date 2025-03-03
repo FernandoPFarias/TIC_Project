@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|c:\\users\\faria\\desktop\\projetos unity\\tic_project\\tic_project\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|c:\\users\\faria\\desktop\\projetos unity\\tic_project\\tic_project\\assets\\scripts\\playeratack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeratack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerAtack.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\PlayerAtack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAtack.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\PlayerAtack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAtack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:23:55.339Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T19:17:04.218Z",
               "EditorCaption": ""
