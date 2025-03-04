@@ -22,6 +22,7 @@ public class PlayerMovment : MonoBehaviour
 
     Animator animator;
 
+
   
 
     void Start()
