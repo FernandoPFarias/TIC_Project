@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|c:\\users\\faria\\desktop\\projetos unity\\tic_project\\tic_project\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\assets\\scripts\\player\\playercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\assets\\scripts\\player\\playeraudiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeraudiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|c:\\users\\faria\\desktop\\projetos unity\\tic_project\\tic_project\\assets\\scripts\\player\\playeratack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeratack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\assets\\scripts\\enemies\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\assets\\scripts\\player\\playeratack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeratack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\assets\\scripts\\audio\\effectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\effectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|c:\\users\\faria\\desktop\\projetos unity\\tic_project\\tic_project\\assets\\scripts\\scenes\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\assets\\scripts\\itens\\shotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itens\\shotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\assets\\scripts\\player\\playercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5449092E-521F-BC7D-5430-DF857C9F7684}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,56 +42,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Scenes\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\SceneController.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Scenes\\SceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scenes\\SceneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:32:47.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EffectsController.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Audio\\EffectsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\EffectsController.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Audio\\EffectsController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\EffectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:59:39.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerAudioController.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Player\\PlayerAudioController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAudioController.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Player\\PlayerAudioController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAudioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:44:36.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ShotController.cs",
               "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Itens\\ShotController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Itens\\ShotController.cs",
               "ToolTip": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Itens\\ShotController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Itens\\ShotController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:10:00.281Z"
+              "WhenOpened": "2025-03-04T20:10:00.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EnemyController.cs",
               "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Enemies\\EnemyController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyController.cs",
               "ToolTip": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Enemies\\EnemyController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:49:30.452Z"
+              "WhenOpened": "2025-03-04T19:49:30.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T19:49:25.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PlayerContact.cs",
               "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Player\\PlayerContact.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerContact.cs",
               "ToolTip": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Player\\PlayerContact.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerContact.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:33:46.276Z"
+              "WhenOpened": "2025-03-04T19:33:46.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,9 +143,10 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAtack.cs",
               "ToolTip": "C:\\Users\\faria\\Desktop\\Projetos Unity\\TIC_Project\\TIC_Project\\Assets\\Scripts\\Player\\PlayerAtack.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAtack.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:46:21.023Z"
+              "WhenOpened": "2025-03-04T18:46:21.023Z",
+              "EditorCaption": ""
             }
           ]
         }

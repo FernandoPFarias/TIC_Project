@@ -3,14 +3,17 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 public class PlayerContact : MonoBehaviour
 {
     
     public Image itemImage;
     
+    public PlayerAudioController audioController;
+    
     bool canWinLevel = false;
 
+    public string nextLevelName = "Level 1";
     void Start()
     {
         
@@ -27,6 +30,8 @@ public class PlayerContact : MonoBehaviour
         if (collision.gameObject.CompareTag("Enemy"))
         {
             Debug.Log("tocou no inimigo");
+            SceneManager.LoadScene("GameOver");
+            audioController.Hurt();
         }
     }
 
@@ -38,6 +43,7 @@ public class PlayerContact : MonoBehaviour
             Destroy(collision.gameObject);
             itemImage.color = Color.white;
             canWinLevel = true;
+            audioController.PlayGetItem();
         }
 
         if (collision.gameObject.CompareTag("FinalPoint"))
@@ -45,6 +51,7 @@ public class PlayerContact : MonoBehaviour
             if(canWinLevel)
             {
                 Debug.Log("ganhou o level");
+                SceneManager.LoadScene(nextLevelName);
 
             }
             else

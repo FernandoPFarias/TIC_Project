@@ -3,13 +3,22 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ShotController : MonoBehaviour
-{
+{   
+    
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.CompareTag("Enemy"))
         {
             Destroy(collision.gameObject);
             Destroy(gameObject);
+
+            FindObjectOfType<EffectsController>().PlayEnemyDeath();
+        }
+
+        if(collision.gameObject.CompareTag("Ground"))
+        {
+            Destroy(gameObject);
+            FindObjectOfType<EffectsController>().eggExplosion();
         }
     }
 }
