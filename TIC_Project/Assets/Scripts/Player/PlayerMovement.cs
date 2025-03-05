@@ -74,14 +74,16 @@ public class PlayerMovment : MonoBehaviour
         {
             jumpCount = 0;
         }
+
+
     }
 
     void Shoot()
     {
         animator.SetTrigger("T_Attack");
-        
-
     }
+
+
 
 
 }

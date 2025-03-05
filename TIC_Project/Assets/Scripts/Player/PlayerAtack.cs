@@ -11,7 +11,8 @@ public class PlayerAtack : MonoBehaviour
 
     SpriteRenderer sprite;
 
-    bool canAtack = true;
+    //bool canAtack = true;
+    //bool canAtack = true;
 
     
 
@@ -50,6 +51,6 @@ public class PlayerAtack : MonoBehaviour
     }
     public void SetCanAttack()
     {
-        canAtack = true;
+       // canAtack = true;
     }
 }

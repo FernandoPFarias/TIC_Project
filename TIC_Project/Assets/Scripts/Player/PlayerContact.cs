@@ -7,7 +7,10 @@ using UnityEngine.SceneManagement;
 public class PlayerContact : MonoBehaviour
 {
     
-    public Image itemImage;
+    public Image[] eggImage;
+    public int eggsCollected = 0;
+    public int totalEggs = 3;
+    
     
     public PlayerAudioController audioController;
     
@@ -39,26 +42,40 @@ public class PlayerContact : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Item")) 
         {
-            Debug.Log("Pegou um ovo");
+            eggsCollected++;
+            Debug.Log("Pegou um ovo!: " + eggsCollected);
+
             Destroy(collision.gameObject);
-            itemImage.color = Color.white;
-            canWinLevel = true;
+            
             audioController.PlayGetItem();
+
+            UpdadeEggUI();
         }
+
 
         if (collision.gameObject.CompareTag("FinalPoint"))
         {
-            if(canWinLevel)
+            if(eggsCollected >= totalEggs)
             {
-                Debug.Log("ganhou o level");
+                Debug.Log("Todos foram coletados");
                 SceneManager.LoadScene(nextLevelName);
 
             }
             else
             {
 
-                Debug.Log("Não ganhou o level");
+                Debug.Log("Nta faltando ovo");
             }
+        }
+    }
+
+
+
+    void UpdadeEggUI()
+    {
+        for (int i = 0; i < eggsCollected; i++)
+        {
+            eggImage[i].color = Color.white;
         }
     }
 }
